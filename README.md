@@ -52,7 +52,7 @@ faculty/staff survey data, using Natural Language Processing methods, specifical
 program.
 * Clearly explained and interpreted statistical and analytical findings and predictive modelling insights to each project stakeholder.
 
-## Featured Projects  
+## Featured Projects  TEST
 
 ### [Analysis of COVID-19 in Chicago](https://github.com/yiannimercer/COVID19_Chicago_Analysis)
 This project aims to analyze COVID-19's affect on the City of Chicago through different categories of citizens, such as age groups, gender (if-applicable), and race/ethnicity. A project of this type can be used to study how a global pandemic affects the groups of citizens of a city like Chicago and if something similar were to happen, we can be better prepared to combat the deadly virus against our most at risk citizens.
