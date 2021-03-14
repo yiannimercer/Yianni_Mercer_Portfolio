@@ -29,9 +29,11 @@ Implementation, Data Analysis, Data Science and Machine Learning Applications, A
 
 * Applied Mathematics (Calculus, Multivariate Calculus, Probability, Frequentist & Bayesian Statistics),
 Applied Regression (Linear, Multiple, Logistic, Polynomial), Classification (KNN, Random Forest, Naïve Bayes), Clustering (K- Means, Hierarchical), ANOVA, Monte Carlo Simulation
+
 #### Technology 
 
 * Python (Pandas, Scikit-Learn, Numpy, Matplotlib, Seaborn), R/RStudio (Tidyverse, GGplot2, Caret, Gimnet, RandomForest, Shiny), SAS, SPSS, HTML, CSS, VBA, MS Office Suite (Word, PowerPoint, Excel, Outlook), Git
+
 #### Data Science Technologies
 
 * Data Science Pipeline (Cleansing, Wrangling, Visualization, Modeling, Interpretation, Model Production), Web Scraping, Experimental Design, Spark, Map-Reduce, TensorFlow, PyTorch, SQL
