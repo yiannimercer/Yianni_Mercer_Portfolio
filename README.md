@@ -68,4 +68,4 @@ This project aims to analyze COVID-19's affect on the City of Chicago through di
 ### [Estimating the Salary of a Data Scientist](https://github.com/yiannimercer/ds_salary_estimator_proj)
 In this project I created a tool that estmates data science salaries (MAE ~ $ 24K) to help data scientists negotitate their income when they get a job. In order to do this, I scraped over 1000 job descriptions from glassdoor using python and selenium.  In turn, I engineered features from the text of each job description to quantify the value companies put on skills such as, python, excel, aws, and spark.  The modeling building phased consisted of optimizing Linear, LASSO, and Random Forest Regressors using GridsearchCV to reach the best model. In th eend, I built a client facing API using flask, in order to productionize this effort.  
 
-![alt text](https://github.com/yiannimercer/Yianni_Mercer_Portfolio/blob/main/dsalary.JPEG) 
+![alt text](dsalary.jpeg) 
