@@ -7,7 +7,7 @@ As I approach the end of my academic career, I hope to gain a full time opportun
 
 Feel free to peruse the rest of portfolio where you can find my resume and featured proejcts that showcase my data science and analytical skills. 
 
-## John Yianni Mercer Resume
+## Resume
 
 ### Education & Honors
 
