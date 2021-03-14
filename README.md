@@ -1,4 +1,4 @@
-# Yianni Mercer's Portfolio
+title: [Yianni Mercer's Portfolio]
 
 ## Welcome to my Data Science Portfolio!  
 
