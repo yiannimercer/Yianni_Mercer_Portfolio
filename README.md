@@ -1,5 +1,5 @@
 # Yianni Mercer's Portfolio
-logo:[![alt text](IMG_0940.JPEG)]
+logo:[![alt text](IMG_0940.jpeg)]
 ## Welcome!
 
 ## Who am I?
