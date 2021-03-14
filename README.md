@@ -26,11 +26,14 @@ Implementation, Data Analysis, Data Science and Machine Learning Applications, A
 ### Skills
 
 #### Sciences & Aptitudes 
+
 * Applied Mathematics (Calculus, Multivariate Calculus, Probability, Frequentist & Bayesian Statistics),
 Applied Regression (Linear, Multiple, Logistic, Polynomial), Classification (KNN, Random Forest, Naïve Bayes), Clustering (K- Means, Hierarchical), ANOVA, Monte Carlo Simulation
 #### Technology 
+
 * Python (Pandas, Scikit-Learn, Numpy, Matplotlib, Seaborn), R/RStudio (Tidyverse, GGplot2, Caret, Gimnet, RandomForest, Shiny), SAS, SPSS, HTML, CSS, VBA, MS Office Suite (Word, PowerPoint, Excel, Outlook), Git
 #### Data Science Technologies
+
 * Data Science Pipeline (Cleansing, Wrangling, Visualization, Modeling, Interpretation, Model Production), Web Scraping, Experimental Design, Spark, Map-Reduce, TensorFlow, PyTorch, SQL
 
 ### Certificates
@@ -38,6 +41,7 @@ Applied Regression (Linear, Multiple, Logistic, Polynomial), Classification (KNN
 * Completed a sequence of data science courses, with subjects varying from how to properly cleanse and manipulate data, make predictions using statistical tools and machine learning algorithms, and how to utilize collaboration tools, such as git and SQL databases.
 
 ### Professional Experience 
+
 #### George Jon Inc.
 *Business & Sales Engineering Intern*, November 2019 - Present
 * Assisted the Vice President of Technology with data analysis through collecting and visualizing our client’s environment data.
@@ -52,7 +56,7 @@ faculty/staff survey data, using Natural Language Processing methods, specifical
 program.
 * Clearly explained and interpreted statistical and analytical findings and predictive modelling insights to each project stakeholder.
 
-## Featured Projects  TEST
+## Featured Projects  
 
 ### [Analysis of COVID-19 in Chicago](https://github.com/yiannimercer/COVID19_Chicago_Analysis)
 This project aims to analyze COVID-19's affect on the City of Chicago through different categories of citizens, such as age groups, gender (if-applicable), and race/ethnicity. A project of this type can be used to study how a global pandemic affects the groups of citizens of a city like Chicago and if something similar were to happen, we can be better prepared to combat the deadly virus against our most at risk citizens.  
