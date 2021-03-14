@@ -1,6 +1,6 @@
 # Yianni Mercer's Portfolio
 
-## Welcome to my Data Science Portfolio! TEST 
+## Welcome to my Data Science Portfolio!  
 
 ## Who am I?
 My name is Yianni Mercer and I am senior at DePaul University studying mathemtaics, and data science.  Throughout my time in University I have obtained countless hours of expererience in statisitcal modeling, and data science pipelining (i.e., data collection, cleaning, engineering, and modeling). 
@@ -45,14 +45,14 @@ Applied Regression (Linear, Multiple, Logistic, Polynomial), Classification (KNN
 * Collected business and technical information, and IT environment data from clients for internal eDiscovery Subject Matter Experts to deliver specific solutions for product and service offerings.
 * Increased success of the sales pipeline by analyzing opportunity data from individual Account Managers, while focusing on metrics such as, Open to Close Time, Type of Opportunity, and Type of Client.
 
-#### DePaul University
+#### DePaul University 
 *Graduate Assistant in the Statistical Consulting Center*, December 2020 - Present
 * Assisted in the strengthening of the College of Science & Health’s academic curriculum and programs by analyzing student &
 faculty/staff survey data, using Natural Language Processing methods, specifically sentiment analysis, delineated by academic
 program.
 * Clearly explained and interpreted statistical and analytical findings and predictive modelling insights to each project stakeholder.
 
-## Featured Projects
+## Featured Projects  
 
 ### [Analysis of COVID-19 in Chicago](https://github.com/yiannimercer/COVID19_Chicago_Analysis)
 This project aims to analyze COVID-19's affect on the City of Chicago through different categories of citizens, such as age groups, gender (if-applicable), and race/ethnicity. A project of this type can be used to study how a global pandemic affects the groups of citizens of a city like Chicago and if something similar were to happen, we can be better prepared to combat the deadly virus against our most at risk citizens.
