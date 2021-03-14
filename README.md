@@ -1,5 +1,5 @@
 # Yianni Mercer's Portfolio
-logo:[![alt text](https://github.com/yiannimercer/Yianni_Mercer_Portfolio/blob/main/IMG_0940.jpeg)]
+logo:[![alt text](IMG_0940.JPEG)]
 ## Welcome!
 
 ## Who am I?
