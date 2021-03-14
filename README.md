@@ -63,9 +63,9 @@ program.
 ### [Analysis of COVID-19 in Chicago](https://github.com/yiannimercer/COVID19_Chicago_Analysis)
 This project aims to analyze COVID-19's affect on the City of Chicago through different categories of citizens, such as age groups, gender (if-applicable), and race/ethnicity. A project of this type can be used to study how a global pandemic affects the groups of citizens of a city like Chicago and if something similar were to happen, we can be better prepared to combat the deadly virus against our most at risk citizens.  
 
-![alt text](covid.jpeg)  
+![alt text](covid.JPEG)  
 
 ### [Estimating the Salary of a Data Scientist](https://github.com/yiannimercer/ds_salary_estimator_proj)
 In this project I created a tool that estmates data science salaries (MAE ~ $ 24K) to help data scientists negotitate their income when they get a job. In order to do this, I scraped over 1000 job descriptions from glassdoor using python and selenium.  In turn, I engineered features from the text of each job description to quantify the value companies put on skills such as, python, excel, aws, and spark.  The modeling building phased consisted of optimizing Linear, LASSO, and Random Forest Regressors using GridsearchCV to reach the best model. In th eend, I built a client facing API using flask, in order to productionize this effort.  
 
-![alt text](https://github.com/yiannimercer/Yianni_Mercer_Portfolio/blob/main/dsalary.jpeg) 
+![alt text](https://github.com/yiannimercer/Yianni_Mercer_Portfolio/blob/main/dsalary.JPEG) 
