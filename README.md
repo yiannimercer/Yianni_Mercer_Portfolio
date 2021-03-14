@@ -1,6 +1,6 @@
 # Welcome!
 
-![LinkedIn](https://www.linkedin.com/in/yiannimercer/) | YJMercer@gmail.com | (773) 891 - 8082 | ![GitHub](https://github.com/yiannimercer)
+[LinkedIn](https://www.linkedin.com/in/yiannimercer/) | YJMercer@gmail.com | (773) 891 - 8082 | [GitHub](https://github.com/yiannimercer)
 
 ## Who am I?
 My name is Yianni Mercer and I am senior at DePaul University studying mathemtaics, and data science.  Throughout my time in University I have obtained countless hours of expererience in statisitcal modeling, and data science pipelining (i.e., data collection, cleaning, engineering, and modeling). 
