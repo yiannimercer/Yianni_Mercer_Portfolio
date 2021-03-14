@@ -13,12 +13,15 @@ Feel free to peruse the rest of portfolio where you can find my resume and featu
 
 ### Education & Honors
 
-DePaul University, College of Science & Health.........................................................................................................Chicago, IL  
+DePaul University, College of Science & Health
 *Master of Science in Applied Statistics (Data Science Focus)*, Expected June 2022   
 * Relevant Coursework: Machine Learning, Statistical Modeling, Data Science Statistics, Probability & Applied Mathematics,Regression Analysis, Bayesian Modeling, Programming for Machine Learning and Data Analysis
 
-DePaul University, College of Science & Health.........................................................................................................Chicago, IL   
+DePaul University, College of Science & Health
 *Bachelor of Science in Mathematical Sciences* *(Statistics Concentration, Minor in Data Science)*, Expected June 2021
+* Dean’s List, Awarded St. Vincent DePaul Academic Scholarship ($10,000 annually)
+* Relevant Coursework: Applied Probability & Statistics, Data Mining, Computer Programming in Python, Database Design &
+Implementation, Data Analysis, Data Science and Machine Learning Applications, Applied Time Series and Forecasting
 
 ### Skills
 
