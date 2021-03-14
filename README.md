@@ -45,7 +45,7 @@ Applied Regression (Linear, Multiple, Logistic, Polynomial), Classification (KNN
 * Collected business and technical information, and IT environment data from clients for internal eDiscovery Subject Matter Experts to deliver specific solutions for product and service offerings.
 * Increased success of the sales pipeline by analyzing opportunity data from individual Account Managers, while focusing on metrics such as, Open to Close Time, Type of Opportunity, and Type of Client.
 
-#### DePaul University 
+#### DePaul University
 *Graduate Assistant in the Statistical Consulting Center*, December 2020 - Present
 * Assisted in the strengthening of the College of Science & Health’s academic curriculum and programs by analyzing student &
 faculty/staff survey data, using Natural Language Processing methods, specifically sentiment analysis, delineated by academic
